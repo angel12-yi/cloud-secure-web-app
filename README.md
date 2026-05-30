@@ -165,36 +165,3 @@ BCA Student
 Marian College Kuttikkanam
 
 Internship at IPSR Solutions Ltd
-## Project Links
-
-### GitHub Repository
-https://github.com/angel12-yi/cloud-secure-web-app
-
-### AWS Deployment
-http://13.61.104.36
-
-### Docker Deployment
-http://13.61.104.36:8080
-
----
-
-## Screenshots
-
-- AWS EC2 Instance Running
-- Login Page
-- Registration Page
-- Dashboard Page
-- Docker Container Running
-- GitHub Repository
-
----
-
-## Author
-
-Angel Shaji
-
-BCA Student
-
-Marian College Kuttikkanam
-
-Internship Project - IPSR Solutions Ltd
